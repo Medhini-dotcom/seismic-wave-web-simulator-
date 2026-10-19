@@ -14,6 +14,4 @@ An interactive web-based educational tool and seismic simulator designed to visu
 * **HTML5 Canvas** (Custom graphical rendering)
 * **CSS3** (Responsive layout and modern UI styling)
 * **JavaScript (ES6+)** (Real-time state and wave physics calculations)
-
-## 🚀 Live Demo
-You can view the live project hosted via GitHub Pages [here](https://YOUR-GITHUB-USERNAME.github.io/seismic-wave-simulator/).
+* 
