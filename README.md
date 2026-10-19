@@ -14,4 +14,4 @@ An interactive web-based educational tool and seismic simulator designed to visu
 * **HTML5 Canvas** (Custom graphical rendering)
 * **CSS3** (Responsive layout and modern UI styling)
 * **JavaScript (ES6+)** (Real-time state and wave physics calculations)
-* 
+
